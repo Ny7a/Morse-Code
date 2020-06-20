@@ -1,0 +1,11 @@
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\bin\Debug\netcoreapp3.1\MorseCode6192020.exe
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\bin\Debug\netcoreapp3.1\MorseCode6192020.deps.json
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\bin\Debug\netcoreapp3.1\MorseCode6192020.runtimeconfig.json
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\bin\Debug\netcoreapp3.1\MorseCode6192020.runtimeconfig.dev.json
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\bin\Debug\netcoreapp3.1\MorseCode6192020.dll
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\bin\Debug\netcoreapp3.1\MorseCode6192020.pdb
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\obj\Debug\netcoreapp3.1\MorseCode6192020.csprojAssemblyReference.cache
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\obj\Debug\netcoreapp3.1\MorseCode6192020.AssemblyInfoInputs.cache
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\obj\Debug\netcoreapp3.1\MorseCode6192020.AssemblyInfo.cs
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\obj\Debug\netcoreapp3.1\MorseCode6192020.dll
+C:\Users\AcademyPgh\Projects\MorseCode6192020\MorseCode6192020\obj\Debug\netcoreapp3.1\MorseCode6192020.pdb
