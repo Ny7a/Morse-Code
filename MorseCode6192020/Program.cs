@@ -9,7 +9,8 @@ namespace morse_code_week_2_day_6
             //get input from user
             string input;
             string morse = "";
-            Console.WriteLine("Give me a word");
+            Console.WriteLine("Give me a word:");
+            Console.WriteLine("");
             input = Console.ReadLine();
             input = input.ToLower();
             //give the input back to the user:
